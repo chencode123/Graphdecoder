@@ -1,0 +1,37 @@
+[
+  {
+    "batch_idx": 0,
+    "beam_idx": 0,
+    "text": "The scenario is Ignition causes VCE <newline> Mechanical Failure causes Instant release <newline> High confinement causes VCE <newline> Instant release causes Vapor cloud formation <newline> Vapor causes Vapor cloud formation <newline> Chemical combustible causes Ignition <newline> Vapor cloud formation causes VCE <newline> CSTR causes Mechanical Failure",
+    "log_score": -0.0035315937784616835,
+    "human_score": 5
+  },
+  {
+    "batch_idx": 0,
+    "beam_idx": 1,
+    "text": "The scenario is Vapor cloud formation causes VCE <newline> Ignition <newline> High confinement causes VCE <newline> Instant release causes Vapor cloud formation <newline> Vapor causes Vapor cloud formation <newline> Chemical combustible causes Ignition <newline> Vapor cloud formation causes VCE <newline> CSTR causes Mechanical Failure",
+    "log_score": -11.380533541312616,
+    "human_score": 4
+  },
+  {
+    "batch_idx": 0,
+    "beam_idx": 2,
+    "text": "The scenario is CSTR causes Mechanical Failure <newline> Liquid causes High vaporization <newline> Vapor cloud formation causes VCE <newline> Ignition causes VCE <newline> Mechanical Failure causes Instant release <newline> High confinement causes VCE <newline> Instant release causes Vapor cloud formation <newline> High vaporization causes Vapor cloud formation <newline> Chemical combustible causes Ignition",
+    "log_score": -12.25917229382685,
+    "human_score": 3
+  },
+  {
+    "batch_idx": 0,
+    "beam_idx": 3,
+    "text": "The scenario is Ignition causes VCE <newline> Mechanical Failure causes Instant release <newline> High confinement causes VCE <newline> Instant release causes Vapor cloud formation <newline> Vapor causes Vapor cloud formation <newline> High confinement causes VCE <newline> Instant release causes Vapor cloud formation <newline> High vaporization causes Vapor cloud formation <newline> Chemical combustible causes Ignition",
+    "log_score": -12.291459481119091,
+    "human_score": 2
+  },
+  {
+    "batch_idx": 0,
+    "beam_idx": 4,
+    "text": "The scenario is Ignition causes Vapor cloud formation <newline> Mechanical Failure causes Instant release <newline> High confinement causes VCE <newline> Instant release causes Vapor cloud formation <newline> Vapor cloud formation <newline> Chemical combustible causes Ignition <newline> Vapor cloud formation causes VCE <newline> CSTR causes Mechanical Failure",
+    "log_score": -12.446136854709039,
+    "human_score": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "beam_idx": 1,
+    "image_file": "beam_output_1.png",
+    "text": "Mechanical Failure causes Continuous release <newline> Vapor cloud formation causes VCE <newline> CSTR causes Mechanical Failure <newline> Continuous release causes Vapor cloud formation <newline> Vapor causes Vapor cloud formation <newline> High confinement causes VCE <newline> Pre-mixture causes Vapor cloud formation <newline> Chemical combustible causes Delayed Ignition <newline> Delayed Ignition causes VCE",
+    "log_score": -0.0,
+    "probability": 0.999965,
+    "human_score": 10
+  },
+  {
+    "beam_idx": 2,
+    "image_file": "beam_output_2.png",
+    "text": "Mechanical Failure causes Continuous release <newline> Vapor cloud formation causes VCE <newline> CSTR causes Mechanical Failure <newline> Continuous release causes Vapor cloud formation <newline> Vapor causes Vapor cloud formation <newline> Normal causes VCE <newline> Pre-mixture causes Vapor cloud formation <newline> Chemical combustible causes Delayed Ignition <newline> Delayed Ignition causes VCE",
+    "log_score": -13.6406,
+    "probability": 1e-06,
+    "human_score": 6
+  },
+  {
+    "beam_idx": 3,
+    "image_file": "beam_output_3.png",
+    "text": "Mechanical Failure causes Continuous release <newline> Vapor cloud formation causes VCE <newline> CSTR causes Mechanical Failure <newline> Continuous release causes Vapor cloud formation <newline> Vapor causes Vapor cloud formation <newline> High confinement causes VCE <newline> Toxic substance causes Vapor cloud formation <newline> Chemical combustible causes Delayed Ignition <newline> Delayed Ignition causes VCE",
+    "log_score": -13.8963,
+    "probability": 1e-06,
+    "human_score": 6
+  },
+  {
+    "beam_idx": 4,
+    "image_file": "beam_output_4.png",
+    "text": "Mechanical Failure causes Continuous release <newline> Vapor cloud formation causes VCE <newline> CSTR causes Normal <newline> Continuous release causes Mechanical Failure <newline> Toxic substance causes Vapor causes Vapor cloud formation <newline> High confinement causes VCE <newline> Pre-mixture causes Vapor cloud formation <newline> Chemical combustible causes Delayed Ignition <newline> Delayed Ignition causes VCE",
+    "log_score": -14.1574,
+    "probability": 1e-06,
+    "human_score": 0
+  },
+  {
+    "beam_idx": 5,
+    "image_file": "beam_output_5.png",
+    "text": "Mechanical Failure causes Continuous release causes Vapor cloud formation <newline> Delayed Ignition causes VCE <newline> Vapor cloud formation causes VCE <newline> CSTR causes Mechanical Failure <newline> High vaporization causes Vapor cloud formation <newline> Continuous release causes Vapor cloud formation <newline> Mechanical Failure causes Continuous release <newline> Chemical combustible causes Delayed Ignition <newline> High confinement causes VCE <newline> Pre-mixture causes High confinement causes VCE",
+    "log_score": -15.5083,
+    "probability": 0.0,
+    "human_score": 0
+  }
+]

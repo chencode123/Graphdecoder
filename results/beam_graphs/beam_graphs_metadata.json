@@ -1,0 +1,37 @@
+[
+  {
+    "beam_idx": 1,
+    "image_file": "beam_output_1.png",
+    "text": "High vaporization causes Vapor cloud formation <newline> Pre-mixture causes Vapor cloud formation <newline> Liquid causes High vaporization <newline> Continuous release causes Vapor cloud formation <newline> Vapor cloud formation causes VCE <newline> Mechanical Failure causes Continuous release <newline> Chemical combustible causes Delayed Ignition <newline> High confinement causes VCE <newline> Delayed Ignition causes VCE",
+    "log_score": -0.0011,
+    "probability": 0.998878
+  },
+  {
+    "beam_idx": 2,
+    "image_file": "beam_output_2.png",
+    "text": "Continuous release causes Vapor cloud formation <newline> High confinement causes VCE <newline> Delayed Ignition causes VCE <newline> Pre-mixture causes Vapor cloud formation <newline> Vapor causes Vapor cloud formation <newline> Chemical combustible causes Delayed Ignition <newline> Vapor cloud formation causes VCE <newline> Mechanical Failure causes Continuous release",
+    "log_score": -9.0816,
+    "probability": 0.000114
+  },
+  {
+    "beam_idx": 3,
+    "image_file": "beam_output_3.png",
+    "text": "High vaporization causes Vapor cloud formation <newline> High confinement causes VCE <newline> Delayed Ignition causes VCE <newline> Pre-mixture causes Vapor cloud formation <newline> Vapor causes Vapor cloud formation <newline> Chemical combustible causes Delayed Ignition <newline> Vapor cloud formation causes VCE <newline> Mechanical Failure causes Continuous release",
+    "log_score": -9.2877,
+    "probability": 9.3e-05
+  },
+  {
+    "beam_idx": 4,
+    "image_file": "beam_output_4.png",
+    "text": "High vaporization causes Vapor cloud formation <newline> Pre-mixture causes Vapor cloud formation <newline> Vapor cloud formation causes VCE <newline> Continuous release causes Vapor cloud formation <newline> Vapor cloud formation causes VCE <newline> Mechanical Failure causes Continuous release <newline> Chemical combustible causes Delayed Ignition <newline> High confinement causes VCE <newline> Delayed Ignition causes VCE",
+    "log_score": -10.4519,
+    "probability": 2.9e-05
+  },
+  {
+    "beam_idx": 5,
+    "image_file": "beam_output_5.png",
+    "text": "High vaporization causes Vapor cloud formation <newline> Pre-mixture causes Vapor cloud formation <newline> Normal",
+    "log_score": -10.5047,
+    "probability": 2.7e-05
+  }
+]

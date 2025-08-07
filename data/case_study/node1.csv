@@ -1,0 +1,3 @@
+state,vapor_cloud_formation,combustible,confinement,mechanical_failure,release,overflow,vaporization,temperature,pressure,ignition,pre_mixture,toxicity_of_sub,dispersion
+liquid,false,true,high,false,false,false,high,high,low,none,false,false,false
+liquid,false,true,false,false,false,false,high,low,low,none,false,false,false

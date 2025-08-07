@@ -1,0 +1,3 @@
+state,vapor_cloud_formation,combustible,confinement,mechanical_failure,release,overflow,vaporization,temperature,pressure,ignition,pre_mixture,toxicity_of_sub,dispersion,label
+liquid,true,true,high,true,continuous,false,high,high,low,delayed,true,false,true,VCE_liquid_continuous
+liquid,true,true,false,true,continuous,false,high,low,high,instant,true,false,true,jet_fire_liquid
