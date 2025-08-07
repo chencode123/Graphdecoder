@@ -16,7 +16,6 @@ conda activate graphdecoder
 ## Dataset
 
 This dataset was generated based on rule-based logic. The input and output are built independently using different scripts.
-This dataset was generated based on rule-based logic. The input and output are built independently using different scripts.
 You can access the processed dataset and pre-trained model weights via the following Google Drive link:
 https://drive.google.com/drive/folders/1-l79eFNjTlllNm4z0sQ9jAv7sgOAJ9_p?usp=sharing
 
