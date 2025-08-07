@@ -1,0 +1,41 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Run Generate Module",
+            "type": "python",
+            "request": "launch",
+            "module": "generate",
+            "cwd": "/home/chenyangtamu/graphdecoder/graphtoseq_github",
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Run Generate_case_study Module",
+            "type": "python",
+            "request": "launch",
+            "module": "generate_case_study",
+            "cwd": "/home/chenyangtamu/graphdecoder/graphtoseq_github",
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+
+        {
+            "name": "Run Main (Train)",
+            "type": "python",
+            "request": "launch",
+            "module": "main",
+            "cwd": "/home/chenyangtamu/graphdecoder/graphtoseq_github",
+            "console": "integratedTerminal",
+            "justMyCode": false
+        }
+    ]
+}
