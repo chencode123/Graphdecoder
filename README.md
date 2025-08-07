@@ -46,7 +46,7 @@ This project includes a pre-configured `.vscode/launch.json` file that defines s
    - `Run Generate_case_study Module`  
    - `Run Main (Train)`  
    - `Run Generate_human Module`  
-3. Click the green **▶ Run** button or press `F5`.
+3. Click the **▶ Run** button or press `F5`.
 
 ## Acknowledgments 
 
