@@ -47,7 +47,6 @@ This project includes a pre-configured `.vscode/launch.json` file that defines s
 2. In the dropdown at the top of the panel, choose one of the available configurations, such as:  
    - `Run Generate_case_study Module`  
    - `Run Main (Train)`  
-   - `Run Generate_human Module`  
 3. Click the **▶ Run** button or press `F5`.
 
 ## Acknowledgments 
